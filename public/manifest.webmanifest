@@ -1,0 +1,21 @@
+{
+    "name": "Inverness Eagles Volleyball",
+    "short_name": "EaglesVB",
+    "description": "Manage your volleyball sessions with the Inverness Eagles.",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#121d33",
+    "theme_color": "#121d33",
+    "icons": [
+        {
+            "src": "/icons/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/icons/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
